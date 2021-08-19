@@ -1,2 +1,2 @@
 # MicroTrainning
-This is to register some of my studying content
+This is to register some of my study content
